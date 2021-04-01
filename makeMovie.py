@@ -55,7 +55,7 @@ def makeMovie_GW(image_folder = '/Users/floorbroekgaarden/Projects/GitHub/GW-vis
 
 
 
-Movie_GW_BHmassVSspin =False
+Movie_GW_BHmassVSspin =True 
 Movie_GW_BHmassVSradiusISCO = True
 
 
